@@ -1,6 +1,6 @@
 # Formação em Ciência de dados  👩🏻‍💻 
 
-Estudos individuais do curso tecnólogo em Ciência de Dados. O objetivo é utilizar todo o conhecimento matemático e manipulação de dados no Python para construir resumos curtos e a elucidação dos conteúdos.
+Estudos individuais e do curso tecnólogo em Ciência de Dados. O objetivo é utilizar todo o conhecimento matemático e manipulação de dados no Python para construir resumos curtos e a elucidação dos conteúdos.
 
 
 # Disciplinas
@@ -9,5 +9,5 @@ Estudos individuais do curso tecnólogo em Ciência de Dados. O objetivo é util
 
 2. 🔍 [Estatística]()
 
-3. 🔍 [Machine learning]()
+3. 🔍 [Machine learning](https://github.com/deborabmfreitas/data-science-technologist/tree/main/machine-learning)
 
