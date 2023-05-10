@@ -9,3 +9,5 @@ Estudos individuais do curso tecnólogo em Ciência de Dados. O objetivo é util
 
 2. 🔍 [Estatística]()
 
+3. 🔍 [Machine learning]()
+
