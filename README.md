@@ -1,4 +1,4 @@
-# Formação em Ciência de dados  👩🏻‍💻 
+# Estudos 👩🏻‍💻 
 
 Estudos individuais e do curso tecnólogo em Ciência de Dados. O objetivo é utilizar todo o conhecimento matemático e manipulação de dados no Python para construir resumos curtos e a elucidação dos conteúdos.
 
