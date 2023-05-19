@@ -7,7 +7,7 @@ Estudos individuais e do curso tecnólogo em Ciência de Dados. O objetivo é ut
 
 1. 🔍 [Pré-cálculo](https://github.com/deborabmfreitas/data-science-technologist/blob/main/pre-calculo.ipynb)
 
-2. 🔍 [Estatística]()
+2. 🔍 [Estatística](https://github.com/deborabmfreitas/data-science-technologist/tree/main/estatistica)
 
 3. 🔍 [Machine learning](https://github.com/deborabmfreitas/data-science-technologist/tree/main/machine-learning)
 
