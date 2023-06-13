@@ -11,3 +11,6 @@ Estudos individuais e do curso tecnólogo em Ciência de Dados. O objetivo é ut
 
 3. 🔍 [Machine learning](https://github.com/deborabmfreitas/data-science-technologist/tree/main/machine-learning)
 
+4. 🔍 [Linguagem de programação]()
+
+5. 🔍 [Banco de dados]()
